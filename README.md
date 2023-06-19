@@ -8,7 +8,8 @@ A modo de documentar mi progreso en el bootcamp.
 
 ## Cursos que componen el bootcamp
 * ✅ Introducción a la programación
-* Python
+* ✅ Python
+* 🟡 Python intensivo desde 0 - 6 Ejercicios
 * HTML y CSS
 * Javascript Básico
 * 🟡 Git (no tiene ejercicios)
